@@ -1,0 +1,10 @@
+s="I love myself"
+us=s.upper()
+print(us)
+print(s)
+ls=us.lower()
+print(ls)
+ts=s.title()
+print(ts)
+cs=ls.capitalize()
+print(cs)

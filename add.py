@@ -1,0 +1,6 @@
+def add(a,b):
+    print(a+b)
+
+m=55
+n=32
+add(m,n)

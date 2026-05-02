@@ -1,0 +1,6 @@
+file=open("demo.txt","r")
+print(file.tell())
+contents=file.read(6)
+print(file.tell())
+file.seek(0)
+print(file)
