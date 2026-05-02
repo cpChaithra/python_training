@@ -1,0 +1,1 @@
+file=open("D:\training\siet 2026\demo.txt","w")
